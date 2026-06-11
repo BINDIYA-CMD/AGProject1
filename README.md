@@ -23,3 +23,6 @@ m1_cot_reasoning_demo.py — Chain-of-Thought reasoning agent
 m1_structured_function_demo.py — JSON schema enforcement and function calling 
 
 Comparison report: 5 prompts × 3 providers, scored on accuracy, cost, latency 
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/901d7345-7328-43a8-af25-ccb823635541" />
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/204698ba-31ec-4873-ab00-ca69e1a1e2b4" />
+
